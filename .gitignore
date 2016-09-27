@@ -243,3 +243,5 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/OrderPage2/OrderPage2/scripts
+/OrderPage2/OrderPage2/Service References/Application Insights
